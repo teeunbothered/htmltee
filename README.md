@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @htmltee
+- 👋 Hi, I’m @teeunbothered
 - 👀 I’m interested in eventually being a cool woman in tech.
 - 🌱 I’m currently learning programming and control.
 - 💞️ I’m looking to collaborate on anything artsy and/or in tech
